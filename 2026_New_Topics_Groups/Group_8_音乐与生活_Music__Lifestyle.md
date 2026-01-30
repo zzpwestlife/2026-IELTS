@@ -1,4 +1,62 @@
-# 雅思Part2 串题（古典音乐会·反差体验）中英逐句对照版
+## Group 8: 音乐与生活 (Music & Lifestyle)
+
+*(Source: 20260122 雅思串题 5.md)*
+
+### 1. 话题详情 (Topic Details)
+
+#### Topic 18: 不享受的音乐活动
+> **Describe an event you attended in which you didn't enjoy the music played**
+>
+> You should say:
+> - What it was
+> - Who you went with
+> - Why you decided to go there
+> - And explain why you didn't enjoy it
+
+#### Topic 3: 禁止用手机的场合
+> **Describe an occasion when you were not allowed to use your mobile phone**
+>
+> You should say:
+> - When it was
+> - Where it was
+> - Why you were not allowed to use your mobile phone
+> - And how you felt about it
+
+#### Topic 4: 微笑的场合
+> **Describe an occasion when many people were smiling**
+>
+> You should say:
+> - When it happened
+> - Who you were with
+> - What happened
+> - And explain why most people were smiling
+
+### 2. 核心串题思路
+
+> **串联逻辑**：
+> 参加一场**古典音乐会**。
+>
+> - **对应话题 18**：音乐太催眠，气氛太严肃，你无法享受（不享受的音乐）。
+> - **对应话题 3**：入场时手机被封存，无法拍照，起初很焦虑但后来专注于发呆（禁止用手机）。
+> - **对应话题 4**：散场时工作人员滑稽地模仿乐器声疏导人群，缓解了沉闷气氛，大家都被逗笑了（微笑的场合）。
+
+### 3. 通用素材库：古典音乐会的意外插曲
+
+**English Answer**
+
+**[Unenjoyable Music]** I went to a classical concert last month. I expected to enjoy it, but the music was too slow and soothing, making me sleepy. The atmosphere was overly serious, and I couldn't connect with the performance despite the musicians' skills.
+
+**[No Phone]** We were not allowed to use phones and had to put them in sealed bags. At first, I was annoyed because I wanted to take photos. I felt fidgety without my phone, but eventually, I had to just sit there and listen.
+
+**[Smiling]** After the concert, a staff member started mimicking the sounds of violins to cheer up the tired crowd. His humor broke the tension, and everyone started laughing and smiling. It turned a boring night into a warm memory.
+
+**中文翻译**
+
+**[不享受的音乐]** 上个月我去听古典音乐会。原本很期待，但音乐太缓以至于我想睡。气氛太严肃，我无法产生共鸣。
+**[禁止手机]** 我们被禁止用手机，必须封存。起初我很烦因为想拍照。没手机让我坐立难安，但最后只能干坐着听。
+**[微笑]** 散场时，一个工作人员模仿小提琴的声音来逗乐疲惫的人群。他的幽默打破了紧张感，大家都笑了。这让无聊的夜晚变得温馨。
+
+### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
 ### 话题18：不享受的音乐活动
 

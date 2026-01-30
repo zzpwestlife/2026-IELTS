@@ -1,4 +1,51 @@
-# 雅思 Part2 串题（喜欢画画的孩子 / 发挥想象力）中英逐句对照版
+## Group 4: 绘画与想象 (Art & Imagination)
+
+*(Source: 20260122 雅思串题 1.md)*
+
+### 1. 话题详情 (Topic Details)
+
+#### Topic 8: 喜欢画画的孩子
+> **Describe a child who loves drawing/painting**
+>
+> You should say:
+> - Who he/she is
+> - How/when you knew him/her
+> - How often he/she draws/paints
+> - And explain why you think he/she loves drawing/painting
+
+#### Topic 22: 发挥想象力
+> **Describe a time you needed to use your imagination**
+>
+> You should say:
+> - When it was
+> - Why you needed to use imagination
+> - How difficult or easy it was
+> - And explain how you feel about it
+
+### 2. 核心串题思路
+
+> **串联逻辑**：
+> 讲述你**陪小侄子 Xiaoyu 画画**的经历。
+>
+> - **对应话题 8**：介绍 Xiaoyu 热爱画画，随身携带速写本，画风天马行空。
+> - **对应话题 22**：有一次他想画外星星球但卡住了，你和他一起**头脑风暴**（发挥想象力），构思了紫色天空和长翅膀的兔子。
+
+### 3. 通用素材库：小侄子 Xiaoyu 的外星世界
+
+**English Answer**
+
+**[Child who loves drawing]** I want to talk about my 5-year-old nephew, Xiaoyu. He draws almost every day and carries a mini sketchbook everywhere. He loves drawing imaginative things like magical forests and alien spaceships. Drawing allows him to express his thoughts freely.
+
+**[Using Imagination]** Last Saturday, I drew with him. He wanted to create an alien planet but got stuck. He asked for my help, so we started brainstorming together. We imagined a planet with a purple sky, twinkling stars, and aliens that looked like rabbits with wings. Following his lead, I found my creative flow. The process was really enjoyable and reminded me how freeing it is to create without overthinking.
+
+**中文翻译**
+
+**[爱画画的孩子]** 我想说说我5岁的侄子小宇。他几乎每天画画，随身带着速写本。他喜欢画魔法森林、外星飞船等充满想象力的东西。
+**[发挥想象力]** 上周六我陪他画画。他想画外星星球但卡住了，让我帮忙。于是我们一起头脑风暴，想象了一个有紫色天空、闪烁星星和长翅膀兔子的星球。跟着他的思路，我也找到了灵感。这个过程让我意识到无拘无束地创作是多么自由。
+
+---
+
+### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
 ## 话题 8：喜欢画画的孩子
 

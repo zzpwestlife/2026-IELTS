@@ -1,4 +1,60 @@
-# 雅思 Part2 串题（Apple Watch + 万达广场）中英逐句对照版
+## Group 5: 科技与购物 (Tech & Shopping)
+
+*(Source: 20260122 雅思串题 2.md)*
+
+### 1. 话题详情 (Topic Details)
+
+#### Topic 11: 想拥有的科技产品
+> **Describe a piece of technology (not a phone) that you would like to own**
+>
+> You should say:
+> - What it is
+> - How much it costs
+> - How you knew it
+> - And explain why you would like to own it
+
+#### Topic 23: 花费超过预期的物品
+> **Describe an item on which you spent more than expected**
+>
+> You should say:
+> - What it is
+> - How much you spent on it
+> - Why you bought it
+> - And explain why you think you spent more than expected
+
+#### Topic 14: 商场
+> **Describe a shopping mall**
+>
+> You should say:
+> - What its name is
+> - Where it is
+> - How often you visit it
+> - And what you usually buy at the mall
+
+### 2. 核心串题思路
+
+> **串联逻辑**：
+> 讲述你在**万达广场** (Wanda Plaza) 购买 **Apple Watch** 的经历。
+>
+> - **对应话题 11/23**：你想买 Apple Watch 监测健康，预算2000元，但为了原装表带和更好配置，最终花了3000多元（超出预期）。
+> - **对应话题 14**：顺带介绍万达广场，它离家近，是你常去吃饭、逛优衣库和看数码产品的地方。
+
+### 3. 通用素材库：万达广场与 Apple Watch
+
+**English Answer**
+
+**[Tech & Spending]** The tech product I wanted was the Apple Watch SE. I planned to spend around 2000 yuan, but I ended up spending over 3000 because I bought an extra original strap and a higher configuration. I bought it at the digital store in Wanda Plaza. Although it was expensive, I think it was worth it because it helps me track my fitness and stay connected.
+
+**[Shopping Mall]** Wanda Plaza is my go-to mall, located just 5 minutes from the subway. I visit it once or twice a week. It has everything from trendy snack bars in the basement to clothing stores like Uniqlo on the first floor. It’s a great place to hang out with friends, dine, and shop for daily necessities.
+
+**中文翻译**
+
+**[科技与消费]** 我想买 Apple Watch SE。原计划花2000元，但为了原装表带和高配置，最后花了3000多。我是在万达广场的数码店买的。虽然超支了，但我觉得很值，因为它帮我监测健康。
+**[商场]** 万达广场是我常去的商场，离地铁站就5分钟。我每周去一两次。那里应有尽有，从地下的网红小吃到底层的优衣库。这是个和朋友吃饭、购物的好去处。
+
+---
+
+### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
 ## 话题 11：想拥有的科技产品
 

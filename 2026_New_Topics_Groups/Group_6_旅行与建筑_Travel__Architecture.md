@@ -1,4 +1,60 @@
-# 雅思Part2 串题（荷兰骑行+风车屋）中英逐句对照版
+## Group 6: 旅行与建筑 (Travel & Architecture)
+
+*(Source: 20260122 雅思串题 3.md)*
+
+### 1. 话题详情 (Topic Details)
+
+#### Topic 12: 外国地点的短暂停留
+> **Describe a place in a foreign country you would like to stay or work for a short time**
+>
+> You should say:
+> - What place it is
+> - Where you got to know this place
+> - What you will do there
+> - And explain why you will stay or work there just for a short time
+
+#### Topic 13: 自行车/摩托车/汽车旅行
+> **Describe a bicycle/motorcycle/car trip you would like to take**
+>
+> You should say:
+> - Who you would like to go with
+> - Where you would like to go
+> - When you would like to go
+> - And explain why you would like to go by bicycle/motorcycle/car
+
+#### Topic 21: 有趣的建筑
+> **Describe an interesting building**
+>
+> You should say:
+> - Where it is
+> - What it looks like
+> - What function it has
+> - And explain why you think it is interesting
+
+### 2. 核心串题思路
+
+> **串联逻辑**：
+> 计划去**荷兰阿姆斯特丹**进行一次短期旅行。
+>
+> - **对应话题 12/13**：因为假期有限只停留一周（短暂停留），计划和朋友**骑自行车**游览（自行车旅行），因为荷兰是自行车王国。
+> - **对应话题 21**：重点参观**风车屋**（有趣的建筑），描述其木质结构、功能及与运河相映成趣的景色。
+
+### 3. 通用素材库：荷兰骑行与风车
+
+**English Answer**
+
+**[Short Stay & Trip]** I’m planning a one-week trip to Amsterdam in the Netherlands with my friend. Since we only have a short vacation, we want to make the most of it by cycling. The Netherlands is known as the kingdom of cycling, with safe paths everywhere. We plan to ride from the city to the countryside to enjoy the scenery at our own pace.
+
+**[Architecture]** The most interesting building I want to see is a traditional windmill house. It sits beside a canal, made of wood with a red roof and large blades. Historically used for grinding grain, many are now museums. I find them fascinating because they combine practicality with artistic beauty, perfectly integrated into the Dutch landscape.
+
+**中文翻译**
+
+**[短暂停留与旅行]** 我计划和朋友去荷兰阿姆斯特丹玩一周。因为假期短，我们打算骑自行车游览。荷兰是自行车王国，车道很安全。我们计划从城市骑到乡村，按自己的节奏欣赏风景。
+**[建筑]** 我最想看的是传统的风车屋。它坐落在运河边，木质结构配红屋顶和大叶片。历史上它用于磨粮，现在很多变成了博物馆。我觉得它既实用又美观，完美融入了荷兰的风景。
+
+---
+
+### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
 ## 话题12：外国地点的短暂停留
 

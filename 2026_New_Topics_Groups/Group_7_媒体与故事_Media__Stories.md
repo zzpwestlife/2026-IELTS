@@ -1,3 +1,75 @@
+## Group 7: 媒体与故事 (Media & Stories)
+
+*(Source: 20260122 雅思串题 4.md)*
+
+### 1. 话题详情 (Topic Details)
+
+#### Topic 10: Apps/程序
+> **Describe a program or app on your computer or phone**
+>
+> You should say:
+> - What it is
+> - How often you use it
+> - When/how you use it
+> - When/how you found it
+> - And explain how you feel about it
+
+#### Topic 19: 近期观影
+> **Describe a movie you watched and enjoyed recently**
+>
+> You should say:
+> - When and where you watched it
+> - Who you watched it with
+> - What it was about
+> - And explain why you watched this movie
+
+#### Topic 7: 最近读过的故事
+> **Describe a story (e.g. a fairy tale, etc.) you have read recently**
+>
+> You should say:
+> - What it is about
+> - When you read it
+> - Whether you liked it
+> - And explain what you have learned from it
+
+#### Topic 2: 想见的名人
+> **Describe a famous person you would like to meet**
+>
+> You should say:
+> - Who he/she is
+> - How you knew him/her
+> - How/where you would like to meet him/her
+> - And explain why you would like to meet him/her
+
+### 2. 核心串题思路
+
+> **串联逻辑**：
+> 使用 **Bilibili** App 观看了电影 **《疯狂动物城》(Zootopia)**。
+>
+> - **对应话题 10/19**：在 Bilibili（App）上看了这部动画（观影），为了学英语。
+> - **对应话题 7**：读了相关的**前传短篇故事**，关于主角 Judy 童年被嘲笑但坚持梦想的经历。
+> - **对应话题 2**：想见导演 **Byron Howard**，请教角色设计的灵感。
+
+### 3. 通用素材库：Bilibili 与《疯狂动物城》
+
+**English Answer**
+
+**[App & Movie]** I use the Bilibili app on my phone to watch movies with bilingual subtitles. Recently, I watched *Zootopia* on it. It’s an animation about a rabbit named Judy who dreams of becoming a police officer. I love this app because its category feature helps me find good learning materials easily. The movie inspired me with its theme of breaking stereotypes.
+
+**[Story]** I also read a short story prequel about Judy’s childhood. It described how she was teased for being small but never gave up training. This story touched me because it showed her determination from a young age.
+
+**[Famous Person]** I would like to meet the director, Byron Howard. I admire how he created such a deep story with humorous characters. I want to ask him about his inspiration for the fox and rabbit dynamic.
+
+**中文翻译**
+
+**[App与电影]** 我用手机上的 Bilibili 看双语电影。最近看了《疯狂动物城》，讲的是兔子 Judy 梦想当警察的故事。我喜欢这个 App 因为它的分类功能很好用。电影打破刻板印象的主题激励了我。
+**[故事]** 我还读了一个关于 Judy 童年的前传短篇。讲她因个子小被嘲笑但从不放弃训练。这个故事展现了她的决心，很打动我。
+**[名人]** 我想见导演 Byron Howard。我钦佩他能创作出既深刻又幽默的故事。我想问问他关于狐狸和兔子角色设定的灵感。
+
+---
+
+### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
+
 ### 话题10：Apps/程序
 
  **中文** ：我常用的程序是手机上的Bilibili，/这是一个综合视频类APP。/我每周会用2-3次，/主要在周末休闲时或者想练英语的时候打开。/最初是朋友推荐给我的，/说上面有很多带双语字幕的动画和电影，/适合学英语。
