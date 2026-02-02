@@ -62,7 +62,7 @@
 
 **中文翻译**
 
-**[App与电影]** 我用手机上的 Bilibili 看双语电影。最近看了《疯狂动物城》，讲的是兔子 Judy 梦想当警察的故事。我喜欢这个 App 因为它的分类功能很好用。电影打破刻板印象的主题激励了我。
+**[App 与电影]** 我用手机上的 Bilibili 看双语电影。最近看了《疯狂动物城》，讲的是兔子 Judy 梦想当警察的故事。我喜欢这个 App 因为它的分类功能很好用。电影打破刻板印象的主题激励了我。
 **[故事]** 我还读了一个关于 Judy 童年的前传短篇。讲她因个子小被嘲笑但从不放弃训练。这个故事展现了她的决心，很打动我。
 **[名人]** 我想见导演 Byron Howard。我钦佩他能创作出既深刻又幽默的故事。我想问问他关于狐狸和兔子角色设定的灵感。
 
@@ -70,48 +70,73 @@
 
 ### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
-### 话题10：Apps/程序
+#### 英文答案：
 
- **中文** ：我常用的程序是手机上的Bilibili，/这是一个综合视频类APP。/我每周会用2-3次，/主要在周末休闲时或者想练英语的时候打开。/最初是朋友推荐给我的，/说上面有很多带双语字幕的动画和电影，/适合学英语。
+段落 1：通用开头段
+I'm going to share a story about how I discovered the amazing world of animation through an app called Bilibili, and how it led me to watch a fantastic movie called Zootopia. This journey not only entertained me but also taught me valuable lessons about dreams and breaking stereotypes.
 
- **英文** ：The app I use quite often is **Bilibili** on my phone. /（中）It’s an all-in-one video app. /（中）I use it two or three times a week, /（中）mostly when I’m relaxing on weekends or want to practice English. /（中）A friend recommended it to me first, /（中）saying it has lots of animations and movies with **bilingual subtitles**, /（强调）which are perfect for English learning.（中）
+段落 2：（话题 10&19）Apps / 程序 & 近期观影
+One of my favorite apps is Bilibili, which I use on my phone. I usually open it two or three times a week, especially on weekends when I want to relax or practice my English. A friend recommended it to me, saying it has a lot of animated films and shows with bilingual subtitles, which are perfect for learning. What I love most is its category feature, which lets me quickly filter content like "English learning" or "animated movies." Last time, I found Zootopia in its "high-rated animation" section. Recently, I watched Zootopia on Bilibili. It's an animated movie about a rabbit named Judy who dreams of becoming a police officer despite facing prejudice. She teams up with a fox named Nick to solve a mystery, and together they uncover a conspiracy in their city. I chose to watch it because my friend said the bilingual subtitles would help me with my English, and I was also drawn to its theme of breaking stereotypes and pursuing dreams.
 
- **中文** ：我最喜欢它的分类功能，/能快速筛选出“英语学习”“动画电影”等内容，/上次就是在它的“高分动画”分类里找到《疯狂动物城》的。/这个APP对我来说非常实用，/不仅能看喜欢的影片，/还能通过双语字幕提升听力和词汇量，/界面设计也很友好，/刷起来很流畅，/是我放松和学习的好帮手。
+段落 3：（话题 19）近期观影
+I watched Zootopia last Saturday night at home, all by myself. The movie really touched me because Judy's courage and Nick's transformation were so inspiring. I loved how it portrayed different animals and their lifestyles, making me laugh while also teaching me important lessons. The attention to detail in the movie was impressive, and I felt relaxed while watching it, but I also learned a lot about acceptance and understanding.
 
- **英文** ：My favorite part is its **category feature**, /（快）which lets me quickly find content like “English learning” and “animated movies”. /（中）That’s how I found *Zootopia* last time, in its “high-score animation” section. /（中）This app is really useful for me. /（中）It not only lets me watch my favorite films, /（快）but also helps me improve my listening and vocabulary with bilingual subtitles. /（中）The interface is easy to use too, /（中）and it runs smoothly. /（慢）It’s a great helper for both relaxing and studying.（强调）
+段落 4：（话题 7）最近读过的故事
+Recently, I came across a short story on Bilibili, which happened to be a prequel to Zootopia. It focused on Judy's childhood—she was often teased by others for being small and told she couldn't be a police officer. But she never gave up on her dream and kept practicing running hard every day. Her parents were worried about her at first, but they eventually supported her after seeing how determined she was. Eventually, she won a race in her town, and that made everyone start believing in her. I really liked this story because it showed Judy's determination and growth. It reminded me that prejudice should never stop us from chasing our goals.
 
----
+段落 5：（话题 2）想见的名人
+After watching Zootopia, I became really interested in its director, Byron Howard. I found out about him from the credits after the movie. I learned that he also directed other great animations like Tangled. I would love to meet him at an animation festival and ask him about his inspiration for creating Zootopia, especially the character designs for Judy and Nick. I'm curious about why he chose a rabbit and a fox as the main characters and how he managed to convey such a deep message about breaking stereotypes in a humorous way. I admire his creativity and would love to hear his thoughts on animation, as it would help me understand storytelling and creativity better.
 
-### 话题19：近期观影
+段落 6：通用结尾段
+Overall, my experience with Bilibili and Zootopia has been incredibly rewarding. It has entertained me and inspired me to be brave and pursue my dreams, just like Judy.
 
- **中文** ：我最近看的电影是《疯狂动物城》，/上周六晚上我在家用Bilibili独自观看的。/这部动画讲了兔子朱迪不顾偏见坚持成为警察，/和狐狸尼克搭档破案的故事，/最终揭露了动物城的阴谋，/也打破了大家对食肉动物的刻板印象。
+#### 中文翻译：
 
- **英文** ：The movie I watched and loved recently is *Zootopia*. /（中）I watched it alone at home on Bilibili last Saturday night. /（中）This animation is about Judy the rabbit, /（快）who stuck to her dream of being a police officer even though others looked down on her, /（中）and teamed up with Nick the fox to solve a case. /（中）They finally uncovered a plot in Zootopia, /（强调）and broke people’s stereotypes about carnivores.（中）
+段落 1：通用开头段
+我要分享一个故事，讲述我如何通过一款名为 Bilibili 的应用程序发现了奇妙的动画世界，并由此观看了一部名为《疯狂动物城》的精彩电影。这段旅程不仅让我感到愉悦，也教会了我关于梦想和打破刻板印象的宝贵经验。
 
- **中文** ：我选择看这部电影，/一是朋友说它的双语字幕很适合练英语，/二是它的主题“打破偏见、坚持梦想”吸引了我。/看完后我特别喜欢，/朱迪的勇气和尼克的转变让我很感动，/动画里的细节也很用心，/比如不同动物的生活场景，/既幽默又有深度，/放松的同时还能学到道理。
+段落 2：（话题 10&19）应用程序 & 近期观影
+我最喜欢的应用程序之一是 Bilibili，我把它安装在手机上。我通常每周打开两到三次，尤其是在周末，当我想要放松或练习英语的时候。一位朋友向我推荐了它，说上面有很多带有双语字幕的动画电影和剧集，非常适合学习。我最喜欢的是它的分类功能，可以让我快速筛选内容，例如“英语学习”或“动画电影”。上次，我在它的“高分动画”分类中发现了《疯狂动物城》。最近，我在 Bilibili 上观看了《疯狂动物城》。这是一部关于兔子朱迪的动画电影，她梦想成为一名警察，尽管面临偏见。她与一只名叫尼克的狐狸联手破案，并共同揭开了他们所在城市的阴谋。我选择观看这部电影是因为我的朋友说双语字幕可以帮助我提高英语水平，而且我也被它打破刻板印象和追逐梦想的主题所吸引。
 
- **英文** ：I chose to watch this movie /（中）first because my friend said its bilingual subtitles are great for practicing English, /（中）and second because its theme—“breaking stereotypes and following your dreams”—really drew me in. /（中）I loved it after watching it. /（中）Judy’s courage and Nick’s change touched me a lot. /（快）The little details in the animation are really well-done, /（中）like the living environments of different animals. /（中）It’s both funny and meaningful. /（慢）I got to relax and learn a good lesson at the same time.（强调）
+段落 3：（话题 19）近期观影
+上周六晚上，我独自在家观看了《疯狂动物城》。这部电影深深地打动了我，因为朱迪的勇气和尼克的转变都非常鼓舞人心。我喜欢它对不同动物及其生活方式的刻画，这让我开怀大笑的同时，也教会了我一些重要的道理。这部电影的细节处理令人印象深刻，观看时我感到很放松，同时也学到了很多关于接纳和理解的知识。
 
----
+段落 4：（话题 7）近期读过的故事
+最近，我在哔哩哔哩上读到一篇短篇小说，它恰好是《疯狂动物城》的前传。故事聚焦于朱迪的童年——她因为个子矮小经常被嘲笑，别人也说她当不了警察。但她从未放弃梦想，每天坚持刻苦训练跑步。起初她的父母很担心，但看到她如此坚定，最终还是支持了她。后来，她赢得了镇上的一场比赛，这让所有人都开始相信她。我非常喜欢这个故事，因为它展现了朱迪的决心和成长。它提醒我，偏见永远不应该阻止我们追求梦想。
 
-### 话题7：最近读过的故事
+段落 5：（话题 2）想见的名人
+看完《疯狂动物城》后，我对它的导演拜伦·霍华德产生了浓厚的兴趣。我在电影结束后的演职员表中了解到了他。我了解到他还执导过其他优秀的动画电影，比如《长发公主》。我希望能在一个动画节上见到他，问问他创作《疯狂动物城》的灵感来源，特别是朱迪和尼克这两个角色的设计。我很好奇他为什么选择兔子和狐狸作为主角，以及他是如何以幽默的方式传达打破刻板印象这一深刻主题的。我欣赏他的创造力，也很想听听他对动画的看法，这能帮助我更好地理解故事讲述和创意。
 
- **中文** ：我最近读的是《疯狂动物城》的衍生短篇童话，/是观影前一周在Bilibili的专栏里看到的。/故事讲了朱迪小时候因为个子小被嘲笑，/但她一直坚持练习跑步，/最终在小镇运动会上夺冠，/让大家开始认可她的警察梦想。
+段落 6：通用结尾段
+总而言之，我在哔哩哔哩和《疯狂动物城》的体验非常棒。它不仅娱乐了我，还激励我像朱迪一样勇敢地追逐梦想。
 
- **英文** ：The story I’ve read lately is a short spin-off fairy tale of *Zootopia*. /（中）I came across it in a column on Bilibili a week before watching the movie. /（中）It’s about Judy being laughed at as a kid for being small, /（快）but she kept practicing running, /（中）and finally won the town sports meeting. /（强调）That’s when everyone started to believe in her dream of being a cop.（中）
+#### 适配说明：
 
- **中文** ：我非常喜欢这个故事，/它比电影更细腻地展现了朱迪的成长历程，/让我明白“偏见从来不是放弃的理由”。/这个故事也让我反思，/面对别人的质疑时，/像朱迪一样坚持自己的目标，/才能真正证明自己。
+素材用法：
+● 把故事当作“素材库”，不是“标准答案”
+● 每次答题前快速判断：这个题最关注哪一部分？
+● 再从故事中挑选出相关内容，重组段落，简单调整即可！
 
- **英文** ：I really loved this story. /（中）It shows Judy’s growth much more vividly than the movie, /（慢）and taught me that “prejudice is never an excuse to give up”. /（中）It also made me think—/（中）when others doubt you, /（中）sticking to your goals like Judy does /（强调）is the only way to prove yourself.（中）
+推荐做法：
+● 不要每题都讲一模一样的内容，会让考官怀疑你背稿。
+● 根据题目侧重点选取最相关的部分，其他段落可以删掉或简化。
+● 用你自己的语言重新组织内容，不需要逐字背诵。
 
----
+这个故事怎么用在不同题目里？
+你现在有一个完整故事，但不能每个话题都用整篇内容。太长会跑题，而且容易被识别为串题。下面教你怎么拆分使用，灵活组合段落，把它变成多个话题答案。
 
-### 话题2：想见的名人
+● 话题 10&19：Apps/程序 & 近期观影
+话题重点：讲述 Bilibili 这个应用程序的使用情况以及观看《疯狂动物城》的经历。
+段落组合：段落 1 + 段落 2 + 段落 3 + 段落 6
 
- **中文** ：我想见的名人是《疯狂动物城》的导演拜伦·霍华德。/我是看完电影后，/在片尾字幕里知道他的，/后来查资料发现他还执导过《魔发奇缘》等优秀动画。
+● 话题 19：近期观影
+话题重点：专注于观看《疯狂动物城》的经历和感受。
+段落组合：段落 1 + 段落 3 + 段落 6
 
- **英文** ：The famous person I’d love to meet is **Byron Howard**, /（中）who directed *Zootopia*. /（中）I first knew about him from the closing credits after watching the movie, /（中）and later I checked and found out he also directed great animations like *Tangled*.（中）
+● 话题 7：最近读过的故事
+话题重点：讲述与《疯狂动物城》相关的短篇故事及其感悟。
+段落组合：段落 1 + 段落 4 + 段落 6
 
- **中文** ：我希望能在动画电影节的分享会上见到他，/想当面请教他创作《疯狂动物城》时的灵感，/尤其是朱迪和尼克的角色设计，/为什么选择兔子和狐狸作为主角，/以及如何用幽默的方式表达“打破偏见”的主题。/他的作品既有童趣又有深刻的社会意义，/我很佩服他的创作才华，/想听听他对动画创作的看法，/这对我理解故事和创作都很有帮助。
-
- **英文** ：I hope to meet him at an animation film festival sharing session. /（中）I want to ask him in person about his inspiration for making *Zootopia*, /（快）especially the character designs of Judy and Nick—/（中）why he picked a rabbit and a fox as the main characters, /（中）and how he used humor to express the theme of “breaking stereotypes”. /（中）His works are both childlike and have deep social meanings. /（慢）I really admire his creativity, /（强调）and I’d love to hear his thoughts on animation creation. /（中）It would help me understand stories and creation better.（收尾）
+● 话题 2：想见的名人
+话题重点：介绍导演拜伦·霍华德及想见他的原因。
+段落组合：段落 1 + 段落 5 + 段落 6

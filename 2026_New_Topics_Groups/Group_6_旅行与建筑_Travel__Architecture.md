@@ -56,26 +56,63 @@
 
 ### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
-## 话题12：外国地点的短暂停留
+#### 英文答案：
 
-**中文**：我想短暂停留的外国地点是荷兰的阿姆斯特丹，/这里以纵横的运河、古老的风车和浓厚的骑行氛围闻名。/我是通过朋友推荐了解到这个地方的，/他去年去荷兰旅行后给我看了很多照片，/还推荐了一部讲述荷兰风土人情的纪录片，/片中的风景和生活方式一下子吸引了我。
-**英文**：The foreign place I want to stay in for a short time is **Amsterdam** in the **Netherlands**. /（中）It’s famous for its crisscrossing canals, ancient **windmills** and strong cycling atmosphere. /（中）I knew about this place through a friend’s recommendation. /（中）He showed me many photos after traveling to the Netherlands last year, /（中）and also recommended a documentary about Dutch local customs, /（中）the scenery and lifestyle in it attracted me at once.（中）
+段落 1：通用开头段
+I'm going to share a story about my dream trip to the Netherlands, specifically to Amsterdam, where I want to experience the beautiful cycling culture and see the iconic windmills. Actually, this trip is something I've been thinking about for a while, and I can't wait to tell you all about it.
 
-**中文**：如果能去那里，/我会和好朋友一起骑行穿梭在城市街区，/沿着运河欣赏风景，/重点去郊外的传统风车屋参观，/还会品尝当地的奶酪和特色甜品，/感受地道的荷兰文化。/我只能在那里停留一周左右，/一是因为平时工作忙假期有限，/二是短期停留能集中体验核心特色，/不用赶行程，/也能留些遗憾为下次旅行留期待。
-**英文**：If I can go there, /（中）I will ride a bike through the city streets with my best friend, /（快）enjoy the scenery along the canals, /（中）and focus on visiting the traditional windmill houses in the suburbs. /（中）I will also taste local **cheese** and special desserts, /（中）to experience the authentic Dutch culture. /（中）I can only stay there for about a week. /（中）First, I’m busy with work and have limited holidays, /（中）second, a short stay allows me to experience the core features intensively, /（中）no need to rush the schedule, /（中）and leave some regrets to look forward to the next trip.（中）
+段落 2：（话题 12）外国的短暂停留
+The place I'd love to stay for a short time is Amsterdam in the Netherlands. I first heard about it from a friend who visited last year. He showed me photos of the canals and windmills, and he even recommended a documentary about Dutch culture. His descriptions of the architecture and relaxed lifestyle really caught my attention. If I go, I'd take my friend Xiao Zhang with me. We'd cycle through the city and visit the countryside to see the windmills. I'd also like to try local cheese and tulip products. I can only stay for about a week because of limited vacation time, but I think that's enough to enjoy the main highlights without feeling rushed.
 
-## 话题13：自行车/摩托车/汽车旅行
+段落 3：（话题 13）自行车 / 摩托车 / 汽车旅行
+I plan to go on this cycling trip with Xiao Zhang during summer vacation. He loves cycling just as much as I do, and he has experience riding in different places, so it'll be fun and safe to go together. We're thinking of spending a week, starting in Amsterdam and cycling to a nearby windmill village. The scenery is supposed to be beautiful, with fields and canals all around. We chose to travel by bike because the Netherlands is known as the kingdom of cycling. The bike paths are safe and well-maintained, and cycling lets us explore at our own pace. Besides, it's a great way to stay active and enjoy the relaxed atmosphere.
 
-**中文**：我想和我的好朋友一起，/在暑假去荷兰阿姆斯特丹进行一次自行车旅行。/他和我一样喜欢骑行，/而且骑行经验很丰富，/一路上能互相照应，/还能一起分享旅途的乐趣。/我们计划暑假出发，/用一周的时间，/从阿姆斯特丹市区骑行到周边的风车村，/沿途打卡运河风光和田园景色。
-**英文**：I want to take a **bicycle** trip to Amsterdam in the Netherlands with my best friend /（中）during the summer vacation. /（中）He likes cycling as much as I do, /（中）and has rich cycling experience. /（中）We can take care of each other along the way, /（中）and share the joy of the journey together. /（中）We plan to set off in the summer vacation, /（中）and spend a week riding from downtown Amsterdam to the nearby windmill village, /（快）checking in the canal scenery and rural views along the way.（中）
+段落 4：（话题 21）有趣的建筑
+One of the most interesting buildings I want to see is a traditional windmill house near Amsterdam. It's a classic symbol of the Netherlands, sitting beside a canal in a very picturesque setting. The windmill is made of wood with a cylindrical shape and a red pointed roof, and the large blades turn slowly in the wind. Historically, windmills were used for draining water and grinding grain, which was essential for local life. Nowadays, many have become small museums that show how they worked and explain Dutch agricultural culture. I find them fascinating because they're both practical and artistic, turning wind into energy. What's more, they're perfectly integrated into the landscape, making them great places to learn about culture while enjoying the view.
 
-**中文**：我选择骑自行车出行，/首先因为荷兰是有名的“骑行王国”，/城市里自行车道完善又安全，/还有专门的骑行补给点。/其次骑行特别灵活，/看到喜欢的风景或建筑就能随时停下探索，/比开车更能贴近当地的悠闲生活。/另外骑行还能兼顾运动和旅行，/让我们在欣赏美景的同时锻炼身体。
-**英文**：I choose to travel by bicycle /（中）first because the Netherlands is a famous **cycling kingdom**. /（中）The city has complete and safe cycling lanes, /（中）and there are special cycling supply stations. /（中）Second, cycling is extremely flexible. /（中）We can stop to explore at any time when we see beautiful scenery or interesting buildings, /（中）which is better for experiencing the local leisurely life than driving. /（中）In addition, cycling combines sports and travel, /（强调）allowing us to exercise while enjoying the beautiful scenery.（中）
+段落 5：通用结尾段
+I'm really excited about the idea of visiting the Netherlands. The cycling, landscapes, and architecture make it a perfect trip for me, and I can't wait to create memories there with my friend.
 
-## 话题21：有趣的建筑
+#### 中文翻译：
 
-**中文**：我觉得最有趣的建筑是荷兰阿姆斯特丹郊外风车村的传统风车屋，/它坐落在运河旁的田园间，/也是荷兰最具代表性的建筑之一。/这座风车屋整体是纯木质结构，/主体呈圆柱形，/屋顶是红棕色的尖顶，/最显眼的是四片巨大的深棕色木质风车叶片，/转动起来缓慢又有韵律。
-**英文**：The most interesting building I think of is the traditional **windmill house** in the windmill village on the outskirts of Amsterdam, the Netherlands. /（中）It’s located in the countryside beside the canal, /（中）and it’s also one of the most representative buildings in the Netherlands. /（中）The whole windmill house is a pure **wooden structure**, /（快）its main body is cylindrical, /（中）the roof is a reddish-brown spire, /（快）and the most striking part is four huge dark brown wooden windmill blades, /（中）which rotate slowly and rhythmically.（中）
+第一段：通用开头段
+我要分享一个关于我梦想中的荷兰之旅的故事，特别是去阿姆斯特丹。我想体验那里美丽的自行车文化，并亲眼看看标志性的风车。事实上，我已经考虑这个旅行很久了，迫不及待地想和你们分享。
 
-**中文**：在过去，/风车屋的主要功能是为当地农田排水、磨谷物，/是荷兰人生活和生产的重要工具。/现在大部分风车屋都改造成了小型民俗博物馆，/里面展示着风车的工作原理，/还有荷兰传统的农耕用品。/我觉得它有趣，/是因为它将自然风力转化为生产力，/体现了古人的智慧，/而且它和运河、田园融为一体，/既是实用建筑，/也是荷兰文化和生活方式的缩影。
-**英文**：In the past, /（中）the main function of the windmill house was to **drain water** for local farmland and grind grain, /（中）it was an important tool for the Dutch people’s life and production. /（中）Now most windmill houses have been transformed into small folk museums, /（中）which display the working principle of windmills /（快）and traditional Dutch farming tools. /（中）I think it’s interesting /（中）because it converts natural wind power into productive power, /（中）reflecting the wisdom of the ancients. /（中）Moreover, it integrates with canals and countryside, /（慢）it’s not only a practical building, /（收尾）but also an epitome of Dutch culture and lifestyle.（强调）
+第二段：（话题 12）外国的短暂停留
+我最想短暂停留的地方是荷兰的阿姆斯特丹。我第一次听说这个地方，是去年去过的朋友。他给我看了运河和风车的照片，甚至还推荐了一部关于荷兰文化的纪录片。他对那里的建筑和悠闲生活方式的描述深深吸引了我。如果我去的话，我会带上我的朋友张晓。我们会骑车穿过城市，去郊外看看风车。我还想尝尝当地的奶酪和郁金香制品。由于假期有限，我只能待一周左右，但我认为这足够让我悠闲地欣赏主要的景点了。
+
+第三段：（话题 13）自行车/摩托车/汽车旅行
+我计划暑假和张晓一起骑自行车旅行。他和我一样热爱骑行，而且他有在不同地方骑行的经验，所以一起出行既有趣又安全。我们打算花一周时间，从阿姆斯特丹出发，骑车前往附近的风车村。据说那里的风景很美，四周环绕着田野和运河。我们选择骑自行车旅行是因为荷兰被称为“自行车王国”。那里的自行车道安全且维护良好，骑车可以让我们按照自己的节奏探索。此外，这也是保持活力和享受轻松氛围的好方法。
+
+第四段：（话题 21）有趣的建筑
+我最想参观的建筑之一是阿姆斯特丹附近的一座传统风车房。它是荷兰的经典象征，坐落在风景如画的运河边。风车由木头制成，呈圆柱形，顶部是红色的尖顶，巨大的叶片在风中缓缓转动。历史上，风车曾被用于排水和磨面，这对当地居民的生活至关重要。如今，许多风车已改造成小型博物馆，展示其运作原理并阐释荷兰的农业文化。我着迷于它们，因为它们既实用又富有艺术性，将风能转化为能源。更重要的是，它们与周围的景观完美融合，使之成为在欣赏美景的同时了解文化的绝佳场所。
+
+第五段：通用结尾段
+我对即将到来的荷兰之旅充满期待。骑行、风景和建筑都让我觉得这是一次完美的旅行，我迫不及待地想和朋友一起在那里创造美好的回忆。
+
+#### 适配说明：
+
+素材用法：
+● 把故事当作“素材库”，不是“标准答案”
+● 每次答题前快速判断：这个题最关注哪一部分？
+● 再从故事中挑选出相关内容，重组段落，简单调整即可！
+
+推荐做法：
+● 不要每题都讲一模一样的内容，会让考官怀疑你背稿。
+● 根据题目侧重点选取最相关的部分，其他段落可以删掉或简化。
+● 用你自己的语言重新组织内容，不需要逐字背诵。
+
+这个故事怎么用在不同题目里？
+你现在有一个完整故事，但不能每个话题都用整篇内容。太长会跑题，而且容易被识别为串题。下面教你怎么拆分使用，灵活组合段落，把它变成多个话题答案。
+
+● 话题 12：外国地点的短暂停留
+话题重点：描述阿姆斯特丹的短暂停留，提到朋友的推荐和旅行计划。
+段落组合：段落 1 + 段落 2 + 段落 5
+
+● 话题 13：自行车旅行
+话题重点：描述与小张的骑行旅行计划，强调骑自行车的原因和乐趣。
+段落组合：段落 1 + 段落 3 + 段落 5
+
+● 话题 21：有趣的建筑
+话题重点：描述风车屋的外观、功能和有趣之处。
+段落组合：段落 1 + 段落 4 + 段落 5

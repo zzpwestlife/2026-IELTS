@@ -42,21 +42,53 @@
 
 ### 3. 通用素材库：Tom 自学 Python
 
-**English Answer**
+#### 英文答案：
 
-**[Intro]** I want to share a story about my friend Tom and how he learned programming, specifically Python. This experience not only changed his career path but also taught me a lot about patience and encouragement.
+段落 1：通用开头段
+I want to share a story about my friend Tom and how he learned programming, specifically Python. This experience not only changed his career path but also taught me a lot about patience and encouragement.
 
-**[Advice & Encouragement]** About three months ago, Tom decided to learn Python. He had almost no background in computers, so he felt nervous and scared of making mistakes. One evening, he came to me, feeling upset and wanting to give up. I gave him two simple pieces of advice. First, I told him that programming is all about trial and error. Second, I suggested he start with the absolute basics, like variables and loops, instead of rushing. I knew that setting small, achievable goals would help him build confidence.
+段落 2：（话题 6&25）给别人建议 & 鼓励别人做不愿做的事
+About three months ago, Tom decided to learn Python for the first time. He had almost no background in computers, so he felt really nervous and was scared of making mistakes. One evening, he came to me, and he was really upset. He told me he wanted to learn Python, but he was worried it was too difficult for him. I gave him two simple pieces of advice. First, I told him that programming is all about trial and error, and that even experienced programmers make mistakes all the time. Second, I suggested he start with the absolute basics, like variables and loops, and focus on small programs instead of trying to do too much too soon. I knew that setting small, achievable goals would help him build confidence and stay motivated.
 
-**[Learning Process]** Tom is a university friend who taught himself Python to change his career from administration to IT. He studied online with a beginner course every evening. He kept a notebook for mistakes and practiced coding problems on weekends. I really admire his perseverance. Even when he ran into errors, he never stopped trying. Self-study allowed him to arrange his time freely, and surprisingly, fixing problems alone helped him understand the language much better.
+段落 3：（话题 20）学习新东西的朋友
+Tom is a university friend who taught himself Python to change his career. He used to work in administration, finding the job boring with no room for growth, and chose Python since the IT industry needs basic programming skills. He studied online with a beginner course, spending 1-2 hours every evening on simple grammar and functions, and kept a notebook to note down mistakes and fixes. On weekends, he practiced coding problems to reinforce his knowledge. I really admire his perseverance. He didn't know anything at the beginning, and he ran into a lot of problems, but he never stopped trying. Whenever he got stuck, he just kept looking for ways to fix it. Self-study let him arrange his time freely, though he sometimes spent hours fixing problems alone. Surprisingly, this process helped him understand the language much better.  
 
-**[Conclusion]** Looking back, I feel really proud of Tom. His journey taught me that learning a new skill takes time, and encouragement can make a big difference.
+段落 4：通用结尾段
+Looking back, I feel really proud of Tom. His journey taught me that learning a new skill takes time and patience. Encouragement can also make a big difference when someone is trying something new. With the right mindset and support, I believe anyone can overcome their fears and achieve their goals.
 
-**中文翻译**
+####  中文翻译：
 
-**[开头]** 我想分享我的朋友 Tom 自学 Python 的故事。这段经历不仅改变了他的职业道路，也让我学到了耐心和鼓励的重要性。
-**[建议与鼓励]** 大约三个月前，Tom 决定学 Python。他零基础，所以很害怕犯错。有天晚上他很沮丧地想放弃。我给了他两条建议：第一，编程就是试错的过程；第二，从基础语法开始，不要急于求成。我知道设定小目标能帮他建立自信。
-**[学习过程]** Tom 是为了转行 IT 而自学的。他利用每晚时间上网课，并整理错题本。我非常通过他的毅力，即使遇到报错也从不停止尝试。自学让他时间更自由，而且独自解决问题让他对语言理解得更深。
-**[结尾]** 回想起来，我为 Tom 感到骄傲。他的经历让我明白学习新技能需要时间，而鼓励至关重要。
+段落 1：通用开头段
+我想分享一下我的朋友汤姆学习编程，特别是 Python 的故事。这段经历不仅改变了他的职业道路，也让我学到了很多关于耐心和鼓励的道理。
 
----
+段落 2：（话题 6&25）给别人建议和鼓励别人做不愿做的事
+大约三个月前，汤姆决定第一次学习 Python。他几乎没有任何计算机基础，所以他感到非常紧张，害怕犯错。一天晚上，他来找我，情绪非常低落。他告诉我他想学习 Python，但担心这对他来说太难了。我给了他两条简单的建议。首先，我告诉他编程就是不断试错的过程，即使是经验丰富的程序员也会经常犯错。其次，我建议他从最基础的知识开始，比如变量和循环，专注于编写小程序，而不是试图一下子完成太多事情。我知道设定小的、可实现的目标能够帮助他建立信心，保持动力。
+
+段落 3：（话题 20）学习新东西的人
+汤姆是我的大学朋友，他自学了 Python 来改变职业方向。他以前从事行政工作，觉得这份工作枯燥乏味，没有发展空间，于是选择了 Python，因为 IT 行业需要基本的编程技能。他通过在线课程学习入门级 Python，每天晚上花 1-2 个小时学习简单的语法和函数，并记下错误和修改方法。周末，他会练习编程题来巩固知识。我非常钦佩他的毅力。一开始他一窍不通，遇到了很多问题，但他从未放弃尝试。每当遇到难题，他都会不断寻找解决方法。自学让他可以自由安排时间，尽管有时他需要独自花费数小时来解决问题。令人惊讶的是，这个过程帮助他更好地理解了这门语言。
+
+段落 4：通用结尾段
+回想起来，我为汤姆感到非常骄傲。他的经历让我明白，学习一项新技能需要时间和耐心。鼓励对于尝试新事物的人来说至关重要。我相信，只要拥有正确的心态和支持，任何人都能克服恐惧，实现目标。
+
+#### 适配说明：
+
+素材用法：
+● 把故事当作“素材库”，不是“标准答案”
+● 每次答题前快速判断：这个题最关注哪一部分？
+● 再从故事中挑选出相关内容，重组段落，简单调整即可！
+
+推荐做法：
+● 不要每题都讲一模一样的内容，会让考官怀疑你背稿。
+● 根据题目侧重点选取最相关的部分，其他段落可以删掉或简化。
+● 用你自己的语言重新组织内容，不需要逐字背诵。
+
+这个故事怎么用在不同题目里？
+你现在有一个完整故事，但不能每个话题都用整篇内容。太长会跑题，而且容易被识别为串题。下面教你怎么拆分使用，灵活组合段落，把它变成多个话题答案。
+
+● 话题 6&25：给别人建议 & 鼓励别人做不愿做的事
+话题重点：主要讲述我给汤姆的建议和鼓励他学习编程的过程。
+段落组合：段落 1 + 段落 2 + 段落 4
+
+● 话题 20：学习新东西的朋友
+话题重点：讲述汤姆自学 Python 的经历和他学习的原因。
+段落组合：段落 1 + 段落 3 + 段落 4 

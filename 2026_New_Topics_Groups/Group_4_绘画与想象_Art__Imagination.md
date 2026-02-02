@@ -43,36 +43,57 @@
 **[爱画画的孩子]** 我想说说我5岁的侄子小宇。他几乎每天画画，随身带着速写本。他喜欢画魔法森林、外星飞船等充满想象力的东西。
 **[发挥想象力]** 上周六我陪他画画。他想画外星星球但卡住了，让我帮忙。于是我们一起头脑风暴，想象了一个有紫色天空、闪烁星星和长翅膀兔子的星球。跟着他的思路，我也找到了灵感。这个过程让我意识到无拘无束地创作是多么自由。
 
----
+--- 
 
 ### 4. 补充素材：中英逐句对照版 (Supplementary Material: Chinese-English Ver.)
 
-## 话题 8：喜欢画画的孩子
+#### 英文答案：
 
- **中文** ：我要讲的是我的小侄子小宇，/ 他今年五岁，/ 是我姐姐的儿子。/ 我每周都会去姐姐家看他，/ 从他三岁拿起第一支蜡笔开始，/ 我就见证了他对画画的热爱。
+段落 1：通用开头段
+I'm going to share a delightful story about my little nephew, who has a huge passion for drawing. His name is Xiaoyu, and he's just five years old. In fact, I've been lucky enough to witness his love for art since he picked up his first crayon at the age of three.
 
- **英文** ：The child I want to talk about is my little **nephew** Xiaoyu. /（中）He is five years old, /（中）and he’s my **sister’s** son. /（中）I go to my sister’s home to see him every week. /（中）I have witnessed his love for **drawing** since he picked up his first crayon at the age of three.（中）
+段落 2：（话题 8）喜欢画画的孩子
+Xiaoyu is my sister's son, and I visit him every week. He draws almost every day after kindergarten, spending about an hour at his little desk, and on top of that, he goes to a kids' art class on weekends. He carries his mini sketchbook everywhere, doodling while waiting for food or during car rides. His sketchbook is filled with imaginative drawings, like rabbits with wings, colorful alien spaceships, and magical forests. Basically, I think he loves drawing because it allows him to express his thoughts freely.
 
- **中文** ：小宇画画的频率特别高，/ 每天幼儿园放学回家，/ 都会趴在小桌子上画一个小时，/ 周末还会去少儿画画兴趣班学习。/ 他走到哪都带着迷你小画本，/ 坐车、等吃饭的间隙都会随手涂画。
+段落 3：（话题 22）发挥想象力
+Last Saturday afternoon, I went to my sister's house to draw with Xiaoyu. He wanted to create an alien fantasy planet, but he only sketched a round outline and got stuck on the details. So, he pulled my hand and asked me to help him brainstorm. At first, I was a bit stuck too, so I asked him what his planet looked like in his mind. Following his lead, I found inspiration easily, and we started imagining what the aliens would look like, the color of the sky, and even added twinkling stars and a ring around the planet. The whole process was really enjoyable, and I felt a great sense of accomplishment when we finished. I was inspired by his pure imagination and realized how freeing it is to just create without overthinking.
 
- **英文** ：Xiaoyu draws  **very frequently** . /（中）Every day after kindergarten, /（快）he lies on the small desk and draws for an hour, /（中）and he goes to a children’s drawing class on weekends. /（中）He takes a mini sketchbook with him everywhere, /（快）and doodles in his spare time like taking a bus or waiting for meals.（中）
+段落 4：通用结尾段
+I feel grateful for the time spent with Xiaoyu. His enthusiasm for drawing and imaginative ideas reminds me of the joy of creativity. Overall, I hope to keep encouraging him in his artistic journey.
 
- **中文** ：他的画本里全是天马行空的内容，/ 有长着翅膀的小兔子、/ 五彩的外星飞船，/ 还有满是发光植物的魔法森林。/ 我觉得他热爱画画，/ 是因为画画能让他自由表达想法，/ 还能尽情展现他丰富的想象力，/ 对他来说画画就是一件轻松又快乐的事。
+#### 中文翻译：
 
- **英文** ：His sketchbook is full of **imaginative** things, /（快）like rabbits with wings, colorful alien spaceships, /（中）and magic forests with glowing plants. /（中）I think he loves drawing /（中）because it allows him to express his thoughts freely, /（中）and show his rich **imagination** to the fullest. /（强调）For him, drawing is a relaxed and happy thing.（中）
+第一段：通用开头段
+我要分享一个关于我小侄子的小故事，他非常热爱绘画。他叫小宇，今年五岁。事实上，我很幸运地见证了他对艺术的热爱，从他三岁拿起第一支蜡笔开始。
 
----
+第二段：（话题 8）喜欢画画的孩子
+小宇是我姐姐的儿子，我每周都会去看他。他几乎每天放学后都会画画，在他的小书桌前待上大约一个小时，除此之外，他周末还会去上儿童美术课。他总是随身带着他的迷你素描本，等饭的时候或者坐车的时候都会涂涂画画。他的素描本里画满了充满想象力的画作，比如长着翅膀的兔子、色彩斑斓的外星飞船和神奇的森林。我觉得他喜欢画画是因为它能让他自由地表达自己的想法。
 
-## 话题 22：发挥想象力
+第三段：（话题 22）发挥和计划
+上周六下午，我去姐姐家和小宇一起画画。他想画一个外星奇幻星球，但他只画了个圆的轮廓，细节部分就卡住了。于是，他拉着我的手，让我帮他一起集思广益。一开始我也有点不知所措，就问他脑海中的星球是什么样子。跟着他的思路，我很快就找到了灵感，我们开始想象外星人的样子、天空的颜色，甚至还加上了闪烁的星星和环绕星球的光环。整个过程非常愉快，完成后我感到很有成就感。他纯粹的想象力启发了我，让我意识到不加思考地创作是多么自由。
 
- **中文** ：我需要发挥想象力的时刻，/ 是上周六下午去姐姐家陪小侄子小宇画画的时候。/ 当时他想画一个外星奇幻星球，/ 可只画了一个圆形的星球轮廓，/ 就不知道该怎么设计上面的细节，/ 拉着我的手让我和他一起构思。
+第四段：通用结尾段
+我很感激和小宇一起度过的时光。他对绘画的热情和丰富的想象力让我感受到了创作的乐趣。总而言之，我希望继续鼓励他在艺术道路上前行。
 
- **英文** ：The time I needed to use my **imagination** /（中）was last Saturday afternoon, when I accompanied my little nephew Xiaoyu to draw at my sister’s home. /（中）He wanted to paint a fantasy alien planet then, /（中）but he only drew a round outline of the planet, /（中）and didn’t know how to design the details on it, /（中）so he held my hand and asked me to brainstorm with him.（中）
+#### 适配说明：
 
- **中文** ：一开始我还有点没思路，/ 就先蹲下来问他心里的星球是什么样子的，/ 他说想要彩色的树、/ 会飞的石头，/ 还想让绿色的外星人住在上面。/ 顺着他的想法，/ 我慢慢有了灵感，/ 和他一起构思外星人的样子、/ 星球的天空颜色，/ 还加了闪烁的星星和环形轨道，/ 整个过程特别轻松，/ 完全不用刻意硬想。
+素材用法：
+● 把故事当作“素材库”，不是“标准答案”
+● 每次答题前快速判断：这个题最关注哪一部分？
+● 再从故事中挑选出相关内容，重组段落，简单调整即可！
 
- **英文** ：I had no **inspiration** at first. /（中）So I squatted down and asked him what the planet in his mind looked like. /（中）He said he wanted colorful trees, /（快）flying stones, /（中）and green aliens to live on it. /（中）Following his ideas, I gradually got inspired, /（快）and brainstormed the look of the aliens, the color of the planet’s sky with him, /（中）and even added twinkling stars and ring orbits. /（中）The whole process was very easy, /（中）and I didn’t need to force my thinking at all.（中）
+推荐做法：
+● 不要每题都讲一模一样的内容，会让考官怀疑你背稿。
+● 根据题目侧重点选取最相关的部分，其他段落可以删掉或简化。
+● 用你自己的语言重新组织内容，不需要逐字背诵。
 
- **中文** ：最后看着我们一起构思的外星星球画完，/ 我心里特别有成就感。/ 不仅享受和小宇一起创作的快乐，/ 还被他纯粹又奇妙的想象力感染，/ 也让我感受到，/ 放下顾虑自由发挥想象力的过程，/ 本身就是一件特别美好的事。
+这个故事怎么用在不同题目里？
+你现在有一个完整故事，但不能每个话题都用整篇内容。太长会跑题，而且容易被识别为串题。下面教你怎么拆分使用，灵活组合段落，把它变成多个话题答案。
 
- **英文** ：When we finally finished painting the alien planet we brainstormed together, /（中）I felt a strong sense of  **accomplishment** . /（强调）I not only enjoyed the joy of creating with Xiaoyu, /（中）but also was infected by his pure and wonderful imagination. /（慢）It also made me realize that /（中）the process of letting go of worries and using imagination freely /（收尾）is a particularly beautiful thing in itself.（强调）
+● 话题 8&22：喜欢画画的孩子&发挥想象力
+话题重点：描述小宇的画画习惯和他对画画的热爱。
+段落组合：段落 1 + 段落 2 + 段落 3 + 段落 4
+
+● 话题 22 发挥想象力
+话题重点：描述小宇的画画习惯和他对画画的热爱。
+段落组合：段落 1 + 段落 3 + 段落 4
